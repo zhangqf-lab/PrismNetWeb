@@ -1,6 +1,6 @@
 # overview
 
-use `<meta http-equiv="refresh">` to redirect <https://prismnetweb.zhanglab.net> to actual URL
+use `<meta http-equiv="refresh">` to redirect <http://prismnetweb.zhanglab.net> to actual URL
 
 # troubleshooting
 
